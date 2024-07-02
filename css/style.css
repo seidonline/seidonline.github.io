@@ -2114,14 +2114,6 @@ ol {
   .container {
     max-width: 1170px;
   }
-
-  .iframe-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto; /* Adjust as needed */
-    margin-bottom: 15px;
-  }
 }
 
 /* Medium Device = 1200px */
@@ -2139,14 +2131,6 @@ ol {
   }
   .blog__item__text {
     padding: 0 50px;
-  }
-
-  .iframe-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto; /* Adjust as needed */
-    margin-bottom: 15px;
   }
 }
 
@@ -2252,14 +2236,6 @@ ol {
   }
   .signup .login__social__links {
     padding-left: 0;
-  }
-
-  .iframe-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto; /* Adjust as needed */
-    margin-bottom: 20px;
   }
 }
 
@@ -2402,14 +2378,6 @@ ol {
   .search-model-form input {
     width: 100%;
   }
-
-  .iframe-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto; /* Adjust as needed */
-    margin-bottom: 15px;
-  }
 }
 
 /* Small Device = 320px */
@@ -2483,16 +2451,8 @@ ol {
     color: white;
     cursor: pointer;
   }
-
-  .iframe-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto; /* Adjust as needed */
-    margin-bottom: 15px;
-  }
 }
-.container2 {
+  .container2 {
     margin: 50px auto;
 
   }
